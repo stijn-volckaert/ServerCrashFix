@@ -1,0 +1,16 @@
+*.sdf
+*.db
+*.pdb
+*.suo
+*.d
+*.o
+*~
+.vc/
+ipch/
+Debug/
+Release/
+clang-debug-linux/
+clang-release-linux/
+gcc-debug-linux/
+gcc-release-linux/
+clang-debug-asan-linux/
