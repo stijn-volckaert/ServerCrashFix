@@ -4,6 +4,8 @@
 *.suo
 *.d
 *.o
+*.so
+*.dll
 *~
 .vc/
 ipch/
